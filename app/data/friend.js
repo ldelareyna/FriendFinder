@@ -1,0 +1,244 @@
+var friendsArr = [
+{
+  "name": "Lisa",
+  "photo":"https://images.pexels.com/photos/1382728/pexels-photo-1382728.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+  "scores":[
+      1,
+      4,
+      3,
+      3,
+      3,
+      4,
+      5,
+      3,
+      2,
+      5
+    ]
+},
+{
+  "name": "Jessica",
+  "photo":"https://images.pexels.com/photos/432497/pexels-photo-432497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      3,
+      2,
+      3,
+      1
+    ]
+},
+{
+  "name": "Mira",
+  "photo":"https://images.pexels.com/photos/638700/pexels-photo-638700.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+  "scores":[
+      4,
+      5,
+      4,
+      4,
+      3,
+      1,
+      2,
+      2,
+      2,
+      3
+    ]
+},
+{
+  "name": "David",
+  "photo":"https://www.pexels.com/photo/photography-of-a-guy-wearing-green-shirt-1222271/",
+  "scores":[
+      4,
+      3,
+      2,
+      3,
+      4,
+      1,
+      2,
+      3,
+      4,
+      2
+    ]
+},
+{
+  "name": "Josh",
+  "photo":"https://images.pexels.com/photos/724887/pexels-photo-724887.png?auto=compress&cs=tinysrgb&h=750&w=1260",
+  "scores":[
+      5,
+      4,
+      4,
+      3,
+      5,
+      4,
+      2,
+      5,
+      4,
+      3
+    ]
+},
+{
+  "name": "Zack",
+  "photo":"https://images.pexels.com/photos/769745/pexels-photo-769745.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+  "scores":[
+      1,
+      2,
+      3,
+      4,
+      5,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+},
+{
+  "name": "Priya",
+  "photo":"https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+  "scores":[
+      4,
+      3,
+      4,
+      5,
+      5,
+      2,
+      2,
+      1,
+      3,
+      1
+    ]
+},
+{
+  "name": "Ben",
+  "photo":"https://images.pexels.com/photos/1076605/pexels-photo-1076605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+  "scores":[
+      1,
+      2,
+      3,
+      3,
+      4,
+      2,
+      3,
+      4,
+      5,
+      1
+    ]
+},
+{
+  "name": "William",
+  "photo":"https://images.pexels.com/photos/757316/pexels-photo-757316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+  "scores":[
+      2,
+      3,
+      2,
+      3,
+      5,
+      4,
+      3,
+      1,
+      1,
+      1
+    ]
+},
+{
+  "name": "Wyatt",
+  "photo":"https://images.pexels.com/photos/845457/pexels-photo-845457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+  "scores":[
+      3,
+      1,
+      3,
+      3,
+      5,
+      1,
+      4,
+      5,
+      5,
+      2
+    ]
+},
+{
+  "name": "Beth",
+  "photo":"https://images.pexels.com/photos/845457/pexels-photo-845457.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+  "scores":[
+      1,
+      1,
+      3,
+      4,
+      5,
+      4,
+      2,
+      2,
+      3,
+      1
+    ]
+},
+{
+  "name": "Sophia",
+  "photo":"https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+  "scores":[
+      5,
+      4,
+      3,
+      4,
+      3,
+      2,
+      2,
+      2,
+      3,
+      2
+    ]
+},
+{
+  "name": "Saanvi",
+  "photo":"https://images.pexels.com/photos/968279/pexels-photo-968279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "scores":[
+      5,
+      3,
+      1,
+      2,
+      3,
+      4,
+      5,
+      4,
+      3,
+      1
+    ]
+},
+{
+  "name": "Jonathan",
+  "photo":"https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "scores":[
+      3,
+      4,
+      2,
+      2,
+      3,
+      4,
+      3,
+      4,
+      2,
+      1
+    ]
+},
+{
+  "name": "Maria",
+  "photo":"https://images.pexels.com/photos/1574647/pexels-photo-1574647.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+  "scores":[
+      5,
+      4,
+      4,
+      3,
+      2,
+      1,
+      4,
+      5,
+      3,
+      2
+    ]
+}
+];
+
+module.exports = friendsArr;
