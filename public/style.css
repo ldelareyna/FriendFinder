@@ -1,0 +1,87 @@
+body { 
+  background: url("friends.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: center;
+  color:white;
+}
+
+#logo{
+  text-decoration: none;
+  text-transform: uppercase;
+  color:white;
+  margin-top:60px;
+  font-size: 28px;
+  letter-spacing: 2px;
+}
+
+.navbar-right{
+  margin-top:-40px;
+}
+
+h1 {
+  margin-top: 200px;
+  color: rgb(63, 13, 13) !important;
+  font-size: 80px;
+  font-family: 'Playfair Display', serif !important;
+  letter-spacing: 2px;
+}
+
+h4 {
+  margin-top: 30px;
+  font-family: 'Open Sans', sans-serif !important;
+  font-weight: 500;
+  margin-bottom: 70px;
+}
+
+#survey-btn {
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing: 2px;
+  border: 2px solid white;
+  text-decoration: none;
+  color: white
+}
+
+#survey-btn:hover {
+  background-color:none;
+  color: lightgray;
+  border:2px solid lightgray;
+}
+
+/* border */
+#top,
+#bottom,
+#left,
+#right {
+  background: #fff;
+  position: fixed;
+}
+
+#left,
+#right {
+  top: 0; bottom: 0;
+  width: 10px;
+}
+  #left { left: 0; }
+  #right { right: 0; }
+
+#top,
+#bottom {
+  left: 0; right: 0;
+  height: 10px;
+}
+  #top { top: 0; }
+  #bottom { bottom: 0; }
+
+  .typewrite{
+    color:white;
+    font-size:70px;
+  }
